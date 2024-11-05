@@ -1,2 +1,139 @@
-# swin-transformer-explained
-A comprehensive guide to the Swin Transformer architecture, including implementation details, visualizations, and demos.
+# Swin Transformer Explained
+
+<div align="center">
+
+![Swin Transformer Banner](/assets/images/banner.png)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+
+</div>
+
+## 📚 About The Project
+
+This repository provides a comprehensive exploration of the Swin Transformer architecture, developed as part of a Deep Learning course project. Our goal is to help others understand this powerful architecture through detailed explanations, visualizations, and practical implementations.
+
+### What is Swin Transformer?
+
+Swin Transformer is a hierarchical vision transformer that uses shifted windows for efficient modeling of visual data. It addresses key limitations of previous vision transformers by:
+- Computing self-attention within local windows
+- Supporting hierarchical feature maps
+- Achieving linear computational complexity relative to image size
+
+## 🎯 Project Structure
+
+```
+swin-transformer-explained/
+├── docs/                   # Documentation and tutorials
+├── src/                    # Source code implementation
+├── demos/                  # Interactive demonstrations
+├── presentation/          # Presentation materials
+└── notebooks/            # Jupyter notebooks for examples
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+```bash
+python>=3.8
+pytorch>=2.0
+```
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/swin-transformer-explained.git
+cd swin-transformer-explained
+```
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## 💡 Key Features
+
+- **Theoretical Understanding**
+  - Detailed explanation of architecture
+  - Mathematical foundations
+  - Visual guides and diagrams
+
+- **Implementation**
+  - Step-by-step code walkthrough
+  - Practical examples
+  - Performance optimization tips
+
+- **Demonstrations**
+  - Interactive visualizations
+  - Real-world applications
+  - Performance benchmarks
+
+## 📊 Documentation
+
+For detailed documentation, please visit our [docs](/docs) directory:
+
+- [Architecture Overview](/docs/architecture.md)
+- [Implementation Guide](/docs/implementation.md)
+- [Tutorial](/docs/tutorial.md)
+- [API Reference](/docs/api.md)
+
+## 👥 Team
+
+**Team: Optical Flow**
+- Jinghan Gao - [GitHub Profile](https://github.com/yourusername)
+- Calvin Lo - [GitHub Profile](https://github.com/yourusername)
+- Xinyi Wang - [GitHub Profile](https://github.com/yourusername)
+
+## 📝 Course Information
+
+This project was developed as part of the Deep Learning course at [Your University].
+
+## 🔎 References
+
+1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+2. [Official Swin Transformer Implementation](https://github.com/microsoft/Swin-Transformer)
+
+## 📖 Citation
+
+If you find this project helpful, please consider citing:
+
+```bibtex
+@article{liu2021swin,
+  title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
+  author={Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
+  journal={arXiv preprint arXiv:2103.14030},
+  year={2021}
+}
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📧 Contact
+
+For questions and feedback, please open an issue in this repository or contact team members directly.
+
+## 🙏 Acknowledgments
+
+- [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for the original Swin Transformer
+- [Our course instructor] for guidance and support
+- The PyTorch team for their excellent framework
+
+---
+<div align="center">
+Made with ❤️ by Team Optical Flow
+</div>
