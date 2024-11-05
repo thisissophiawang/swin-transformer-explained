@@ -101,13 +101,13 @@ This project was developed as part of the Computer Vision course at Northeastern
 If you find this project helpful, please consider citing:
 
 ```bibtex
-@misc{gao2024swin,
-    title={Swin Transformer Explained},
-    author={Gao, Jinghan and Lo, Calvin and Wang, Xinyi},
+@techreport{optical_flow_team2024,
+    title={Understanding Swin Transformer: A Comprehensive Study},
+    author={{Optical Flow Team (Gao, Jinghan and Lo, Calvin and Wang, Xinyi)}},
+    institution={University of British Columbia},
+    type={Course Project},
     year={2024},
-    publisher={GitHub},
-    howpublished={\url{https://github.com/yourusername/swin-transformer-explained}},
-    note={Team: Optical Flow - Deep Learning Course Project}
+    note={Deep Learning Course Project}
 }
 ```
 
