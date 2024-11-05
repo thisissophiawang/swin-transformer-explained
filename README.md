@@ -142,6 +142,6 @@ For questions and feedback, please open an issue in this repository or contact t
 - The PyTorch team for their excellent framework
 
 ---
-<div align="center">
+
 Made with ❤️ by Team Optical Flow
 </div>
