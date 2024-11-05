@@ -89,7 +89,7 @@ For detailed documentation, please visit our [docs](/docs) directory:
 
 ## 📝 Course Information
 
-This project was developed as part of the Deep Learning course at [Your University].
+This project was developed as part of the Computer Vision course at Northeastern University.
 
 ## 🔎 References
 
@@ -101,11 +101,22 @@ This project was developed as part of the Deep Learning course at [Your Universi
 If you find this project helpful, please consider citing:
 
 ```bibtex
-@article{liu2021swin,
-  title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
-  author={Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
-  journal={arXiv preprint arXiv:2103.14030},
-  year={2021}
+@misc{gao2024swin,
+    title={Swin Transformer Explained},
+    author={Gao, Jinghan and Lo, Calvin and Wang, Xinyi},
+    year={2024},
+    publisher={GitHub},
+    howpublished={\url{https://github.com/yourusername/swin-transformer-explained}},
+    note={Team: Optical Flow - Deep Learning Course Project}
+}
+```
+
+This project is a comprehensive explanation and implementation of the Swin Transformer architecture, created by Team Optical Flow:
+- Jinghan Gao
+- Calvin Lo
+- Xinyi Wang
+
+For academic use, please ensure to cite both the original work and our educational materials appropriately.
 }
 ```
 
