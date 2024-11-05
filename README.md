@@ -120,9 +120,6 @@ For academic use, please ensure to cite both the original work and our education
 }
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
