@@ -23,7 +23,7 @@ This repository provides a comprehensive exploration of the Swin Transformer arc
 - Xinyi Wang - [GitHub Profile](https://github.com/thisissophiawang)
 
 
-### What is Swin Transformer?
+## What is Swin Transformer?
 
 Swin Transformer is a hierarchical vision transformer that uses shifted windows for efficient modeling of visual data. It addresses key limitations of previous vision transformers by:
 - Computing self-attention within local windows
