@@ -89,6 +89,7 @@ This project was developed as part of the Computer Vision course at Northeastern
 
 1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 2. [Official Swin Transformer Implementation](https://github.com/microsoft/Swin-Transformer)
+3. [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/object-detection-on-coco)_
 
 ## 📖 Citation
 
