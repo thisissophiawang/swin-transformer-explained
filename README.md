@@ -77,7 +77,7 @@ For detailed documentation, please visit our [docs](/docs) directory:
 
 - [Architecture Overview](/docs/architecture.md)
 - [Implementation Guide](/docs/implementation.md)
-- [Tutorial](/docs/tutorial.md)
+- [Demo Tutorial](demo)
 - [API Reference](/docs/api.md)
 
 ## 👥 Team
