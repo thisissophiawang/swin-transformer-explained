@@ -73,10 +73,10 @@ pip install -r requirements.txt
 
 ## 📊 Documentation
 
-For detailed documentation, please visit our [docs](/docs) directory:
+For detailed documentation, please visit our [docs](/documentation) directory:
 
 - [Architecture Overview](/docs/architecture.md)
-- [Implementation Guide](/docs/implementation.md)
+- [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
 - [Demo Tutorial](demo)
 - [API Reference](/docs/api.md)
 
