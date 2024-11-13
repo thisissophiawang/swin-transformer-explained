@@ -83,9 +83,9 @@ For detailed documentation, please visit our [docs](/docs) directory:
 ## 👥 Team
 
 **Team: Optical Flow**
-- Jinghan Gao - [GitHub Profile](https://github.com/yourusername)
-- Calvin Lo - [GitHub Profile](https://github.com/yourusername)
-- Xinyi Wang - [GitHub Profile](https://github.com/yourusername)
+- Jinghan Gao - [GitHub Profile](https://github.com/jinghgao)
+- Calvin Lo - [GitHub Profile](https://github.com/lo-calvin)
+- Xinyi Wang - [GitHub Profile](https://github.com/thisissophiawang)
 
 ## 📝 Course Information
 
