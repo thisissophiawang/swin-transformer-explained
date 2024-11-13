@@ -15,7 +15,7 @@ The primary components of the Swin Transformer architecture include **local wind
 Unlike traditional transformers like ViT, which calculate global self-attention across the entire image, Swin Transformer calculates self-attention within small, fixed-size windows. By limiting the scope of self-attention to local windows, Swin Transformer reduces the computational complexity to **O(n)**, where *n* is the number of tokens in each window. This local windowed self-attention significantly improves efficiency and allows the model to process high-resolution images more effectively.
 
 <div align="center">
-<img src="https://path/to/local_attention.png" alt="Local Windowed Self-Attention" width="600">
+<img src="../assets/images/Local Windowed Self-Attention.png" alt="Local Windowed Self-Attention" width="600">
 <p><em>Figure 1. Local Windowed Self-Attention in Swin Transformer compared to Global Attention in ViT.</em></p>
 </div>
 
