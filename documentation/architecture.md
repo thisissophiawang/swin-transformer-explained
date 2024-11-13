@@ -60,7 +60,7 @@ Swin Transformer’s architecture is unique compared to other prominent vision t
 3. **Swin Transformer**: By combining local attention within windows, a shifted window approach for cross-patch connections, and a hierarchical structure, Swin Transformer maintains the flexibility of transformers while achieving computational efficiency comparable to that of CNNs.
 
 <div align="center">
-<img src="https://path/to/architecture_comparison.png" alt="Comparison of Swin Transformer with ViT and DeiT" width="700">
+<img src="../assets/images/Comparison of Swin Transformer with ViT and DeiT.png" alt="Comparison of Swin Transformer with ViT and DeiT" width="700">
 <p><em>Figure 4. Comparison of Swin Transformer with Vision Transformer (ViT) and Data-efficient Image Transformer (DeiT).</em></p>
 </div>
 
