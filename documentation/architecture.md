@@ -33,7 +33,7 @@ To enable interactions between neighboring windows, Swin Transformer uses a **sh
 Swin Transformer introduces a hierarchical architecture, which is similar to the multi-scale feature extraction found in convolutional neural networks (CNNs). The model constructs feature maps with progressively increasing resolution, enabling it to capture both fine-grained and high-level information. This hierarchical feature extraction makes Swin Transformer particularly well-suited for tasks like object detection and segmentation, where multi-scale information is essential.
 
 <div align="center">
-<img src="../assets/images/Hierarchical Feature Extraction.png" alt="Hierarchical Feature Extraction" width="600">
+<img src="../assets/images/Hierarchical Feature Extraction.jpg" alt="Hierarchical Feature Extraction" width="600">
 <p><em>Figure 3. Hierarchical Feature Extraction in Swin Transformer, allowing multi-scale feature representation.</em></p>
 </div>
 
