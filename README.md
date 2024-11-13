@@ -14,6 +14,15 @@
 
 This repository provides a comprehensive exploration of the Swin Transformer architecture, developed as part of a Deep Learning course project. Our goal is to help others understand this powerful architecture through detailed explanations, visualizations, and practical implementations.
 
+
+## 👥 Team
+
+**Team: Optical Flow**
+- Jinghan Gao - [GitHub Profile](https://github.com/jinghgao)
+- Calvin Lo - [GitHub Profile](https://github.com/lo-calvin)
+- Xinyi Wang - [GitHub Profile](https://github.com/thisissophiawang)
+
+
 ### What is Swin Transformer?
 
 Swin Transformer is a hierarchical vision transformer that uses shifted windows for efficient modeling of visual data. It addresses key limitations of previous vision transformers by:
@@ -32,6 +41,13 @@ swin-transformer-explained/
 └── notebooks/            # Jupyter notebooks for examples
 ```
 
+## 📊 Documentation
+
+For detailed documentation, please visit our [docs](/documentation) directory:
+
+- [Architecture Overview](documentation/architecture.md)
+- [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
+- Demo Tutorial(demo)(https://colab.research.google.com/drive/1DqpJVw0Fe2IlTx0gvcrLE_m6SjssqT4Q?usp=sharing)
 
 
 
@@ -67,22 +83,6 @@ This showcases the effectiveness of the Swin Transformer and SwinV2 models in ob
 _Source: [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/object-detection-on-coco)_
 
 
-
-## 📊 Documentation
-
-For detailed documentation, please visit our [docs](/documentation) directory:
-
-- [Architecture Overview](documentation/architecture.md)
-- [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
-- Demo Tutorial(demo)(https://colab.research.google.com/drive/1DqpJVw0Fe2IlTx0gvcrLE_m6SjssqT4Q?usp=sharing)
-
-
-## 👥 Team
-
-**Team: Optical Flow**
-- Jinghan Gao - [GitHub Profile](https://github.com/jinghgao)
-- Calvin Lo - [GitHub Profile](https://github.com/lo-calvin)
-- Xinyi Wang - [GitHub Profile](https://github.com/thisissophiawang)
 
 ## 📝 Course Information
 
