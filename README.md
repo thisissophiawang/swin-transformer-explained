@@ -45,7 +45,7 @@ pytorch>=2.0
 
 1. Clone the repository
 ```bash
-[git clone https://github.com/yourusername/swin-transformer-explained.git](https://github.com/thisissophiawang/swin-transformer-explained.git)
+git clone https://github.com/yourusername/swin-transformer-explained.git
 cd swin-transformer-explained
 ```
 
