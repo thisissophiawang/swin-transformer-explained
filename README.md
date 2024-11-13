@@ -32,39 +32,33 @@ swin-transformer-explained/
 └── notebooks/            # Jupyter notebooks for examples
 ```
 
-## 🚀 Getting Started
 
-### Prerequisites
 
-```bash
-python>=3.8
-pytorch>=2.0
-```
+## 🚀 Swin Transformer Performance on COCO Dataset
 
-### Installation
+The following chart illustrates the state-of-the-art performance of Swin Transformer and its variants (such as SwinV2-G) on the COCO test-dev dataset. The chart shows how Swin Transformer models consistently achieve high `box mAP` scores, outperforming other object detection models across different time periods.
 
-1. Clone the repository
-```bash
-git clone https://github.com/thisissophiawang/swin-transformer-explained.git 
-cd swin-transformer-explained
-```
+![Swin Transformer COCO Performance](assets/images/chart.png)
 
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
+- **Swin-L (HTC++, multi scale)**: Achieves a box mAP of around 60.
+- **Soft Teacher + Swin-L (HTC++, multi scale)**: Further improves the box mAP to approximately 62.
+- **SwinV2-G (HTC++)**: Sets a new benchmark with a box mAP of around 64.
+
+This showcases the effectiveness of the Swin Transformer and SwinV2 models in object detection tasks, demonstrating their superior performance on high-resolution images and dense prediction tasks.
+
+_Source: [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/object-detection-on-coco)_
+
+
 
 ## 💡 Key Features
 
 - **Theoretical Understanding**
   - Detailed explanation of architecture
-  - Mathematical foundations
   - Visual guides and diagrams
 
 - **Implementation**
   - Step-by-step code walkthrough
-  - Practical examples
-  - Performance optimization tips
+  - Practical examples in Demo
 
 - **Demonstrations**
   - Interactive visualizations
