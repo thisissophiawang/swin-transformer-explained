@@ -26,7 +26,7 @@ Swin Transformer is a hierarchical vision transformer that uses shifted windows 
 ```
 swin-transformer-explained/
 ├── docs/                   # Documentation and tutorials
-├── src/                    # Source code implementation
+├── model/                    # swim transformer model code 
 ├── demos/                  # Interactive demonstrations
 ├── presentation/          # Presentation materials
 └── notebooks/            # Jupyter notebooks for examples
