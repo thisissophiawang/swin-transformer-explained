@@ -38,7 +38,7 @@ swin-transformer-explained/
 
 The following chart illustrates the state-of-the-art performance of Swin Transformer and its variants (such as SwinV2-G) on the COCO test-dev dataset. The chart shows how Swin Transformer models consistently achieve high `box mAP` scores, outperforming other object detection models across different time periods.
 
-![Swin Transformer COCO Performance](assets/images/image.webp)
+![Swin Transformer COCO Performance](assets/images/chart.png)
 
 - **Swin-L (HTC++, multi scale)**: Achieves a box mAP of around 60.
 - **Soft Teacher + Swin-L (HTC++, multi scale)**: Further improves the box mAP to approximately 62.
