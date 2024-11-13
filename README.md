@@ -78,7 +78,7 @@ For detailed documentation, please visit our [docs](/documentation) directory:
 - [Architecture Overview](documentation/architecture.md)
 - [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
 - [Demo Tutorial](demo)
-- [API Reference](/docs/api.md)
+
 
 ## 👥 Team
 
