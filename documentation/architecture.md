@@ -24,7 +24,7 @@ Unlike traditional transformers like ViT, which calculate global self-attention 
 To enable interactions between neighboring windows, Swin Transformer uses a **shifted window mechanism**. In this mechanism, the partitioned windows are shifted by half the window size at alternating layers. This allows tokens in one window to interact with tokens in adjacent windows at the next layer, facilitating feature sharing across windows without significantly increasing computational costs.
 
 <div align="center">
-<img src="../assets/images/Hierarchical Feature Extraction.jpg" alt="Shifted Window Mechanism" width="600">
+<img src="../assets/images/Shifted Window Mechanism.png" alt="Shifted Window Mechanism" width="600">
 <p><em>Figure 2. Shifted Window Mechanism enabling cross-window connections in Swin Transformer.</em></p>
 </div>
 
