@@ -34,21 +34,6 @@ swin-transformer-explained/
 
 
 
-## 🚀 Swin Transformer Performance on COCO Dataset
-
-The following chart illustrates the state-of-the-art performance of Swin Transformer and its variants (such as SwinV2-G) on the COCO test-dev dataset. The chart shows how Swin Transformer models consistently achieve high `box mAP` scores, outperforming other object detection models across different time periods.
-
-![Swin Transformer COCO Performance](assets/images/chart.png)
-
-- **Swin-L (HTC++, multi scale)**: Achieves a box mAP of around 60.
-- **Soft Teacher + Swin-L (HTC++, multi scale)**: Further improves the box mAP to approximately 62.
-- **SwinV2-G (HTC++)**: Sets a new benchmark with a box mAP of around 64.
-
-This showcases the effectiveness of the Swin Transformer and SwinV2 models in object detection tasks, demonstrating their superior performance on high-resolution images and dense prediction tasks.
-
-_Source: [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/object-detection-on-coco)_
-
-
 
 ## 💡 Key Features
 
@@ -64,6 +49,24 @@ _Source: [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/obj
   - Interactive visualizations
   - Real-world applications
   - Performance benchmarks
+
+
+    
+## 🚀 Swin Transformer Performance on COCO Dataset
+
+The following chart illustrates the state-of-the-art performance of Swin Transformer and its variants (such as SwinV2-G) on the COCO test-dev dataset. The chart shows how Swin Transformer models consistently achieve high `box mAP` scores, outperforming other object detection models across different time periods.
+
+![Swin Transformer COCO Performance](assets/images/chart.png)
+
+- **Swin-L (HTC++, multi scale)**: Achieves a box mAP of around 60.
+- **Soft Teacher + Swin-L (HTC++, multi scale)**: Further improves the box mAP to approximately 62.
+- **SwinV2-G (HTC++)**: Sets a new benchmark with a box mAP of around 64.
+
+This showcases the effectiveness of the Swin Transformer and SwinV2 models in object detection tasks, demonstrating their superior performance on high-resolution images and dense prediction tasks.
+
+_Source: [COCO Object Detection Leaderboard](https://paperswithcode.com/sota/object-detection-on-coco)_
+
+
 
 ## 📊 Documentation
 
