@@ -47,7 +47,7 @@ For detailed documentation, please visit our [docs](/documentation) directory:
 
 - [Architecture Overview](documentation/architecture.md)
 - [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
-- Demo Tutorial(demo)(https://colab.research.google.com/drive/1DqpJVw0Fe2IlTx0gvcrLE_m6SjssqT4Q?usp=sharing)
+- Demo Tutorial(https://colab.research.google.com/drive/1DqpJVw0Fe2IlTx0gvcrLE_m6SjssqT4Q?usp=sharing)
 
 
 
