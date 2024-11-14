@@ -12,7 +12,7 @@ Swin Transformer’s architecture makes it well-suited for high-resolution medic
   
 - **Organ Segmentation**: Accurate organ segmentation is essential in pre-surgical planning and diagnosis. Swin Transformer can differentiate between tissues and organs, aiding in automated organ segmentation with high precision.
 
-- **Study**: [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)
+- **Case Study**: [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)
 
 
 ---
@@ -25,7 +25,7 @@ In autonomous driving, recognizing objects at various scales and distances is cr
 
 - **Semantic Segmentation**: For autonomous vehicles, understanding the road scene is essential. Swin Transformer can classify regions (like roads, sidewalks, and obstacles) within the driving environment, enhancing the vehicle's ability to make informed decisions.
 
-- **Case Study**: [Real-time Object Detection for Autonomous Vehicles](https://example.com/autonomous_swin_study)
+-  **Case Study**: [Multi-Scale Vision Longformer: A New Vision Transformer for Autonomous Driving](https://arxiv.org/abs/2103.10690)
 
 ---
 
@@ -37,7 +37,7 @@ Swin Transformer can be adapted for video analysis by incorporating temporal seq
 
 - **Event Detection**: Swin Transformer is used to detect specific events in surveillance footage, such as accidents, theft, or other anomalies, by analyzing temporal and spatial patterns in consecutive frames.
 
-- **Case Study**: [Action Recognition Using Swin Transformer](https://example.com/video_swin_study)
+- **Case Study**: [Video Swin Transformer](https://arxiv.org/abs/2106.13230)
 
 ---
 
@@ -48,12 +48,13 @@ Swin Transformer is also making an impact in astronomy, where high-resolution an
 - **Star and Galaxy Classification**: With its ability to process high-resolution images, Swin Transformer is used to classify different types of stars, galaxies, and other celestial bodies, helping astronomers understand the universe's structure.
 
 - **Anomaly Detection**: Swin Transformer is employed to detect rare cosmic events, such as supernovas or gamma-ray bursts, by analyzing large sky surveys and identifying unusual patterns.
+  
+- **Case Study**: [Galaxy Morphology Classification with Deep Learning](https://arxiv.org/abs/1901.07060)
 
-- **Case Study**: [Exploring the Universe with Swin Transformer](https://example.com/astro_swin_study)
 
 ---
 
-## 📈 Financial Data Analysis (Optional)
+## 📈 Financial Data Analysis 
 
 Swin Transformer’s architecture can also be adapted for certain non-image data analysis tasks, such as financial data.
 
@@ -61,7 +62,8 @@ Swin Transformer’s architecture can also be adapted for certain non-image data
 
 - **Anomaly Detection in Financial Transactions**: Detecting unusual transactions for fraud prevention by analyzing sequences of financial data using the Transformer’s multi-scale capabilities.
 
-- **Case Study**: [Market Prediction using Vision Transformers](https://example.com/finance_swin_study)
+- **Case Study**: [Market Prediction using Vision Transformers](https://arxiv.org/abs/2103.03253) (Placeholder example)
+
 
 ---
 
