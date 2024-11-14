@@ -12,7 +12,8 @@ Swin Transformer’s architecture makes it well-suited for high-resolution medic
   
 - **Organ Segmentation**: Accurate organ segmentation is essential in pre-surgical planning and diagnosis. Swin Transformer can differentiate between tissues and organs, aiding in automated organ segmentation with high precision.
 
-- **Case Study**: [Automated Brain Tumor Detection Using Swin Transformer](https://example.com/brain_tumor_swin_study)
+- **Study**: [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)
+
 
 ---
 
