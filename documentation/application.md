@@ -54,15 +54,22 @@ Swin Transformer is also making an impact in astronomy, where high-resolution an
 
 ---
 
-## 📈 Financial Data Analysis 
+## 📈 Financial Data Analysis
 
-Swin Transformer’s architecture can also be adapted for certain non-image data analysis tasks, such as financial data.
+Swin Transformer’s architecture can potentially be adapted for certain non-image data analysis tasks, such as financial data analysis, due to its multi-scale and temporal capabilities.
 
 - **Market Trend Prediction**: By processing temporal financial data (e.g., stock prices or trading volumes) as images or grids, Swin Transformer can capture patterns and predict trends.
 
 - **Anomaly Detection in Financial Transactions**: Detecting unusual transactions for fraud prevention by analyzing sequences of financial data using the Transformer’s multi-scale capabilities.
 
-- **Case Study**: [Market Prediction using Vision Transformers](https://arxiv.org/abs/2103.03253) (Placeholder example)
+### Relevant Research:
+
+1. [Financial Time Series Forecasting with Transformer](https://arxiv.org/abs/2006.16497): This paper explores how Transformers can be applied to forecast financial time series data.
+
+2. [Enhancing Stock Movement Prediction with Event Embeddings](https://arxiv.org/abs/2008.08845): Discusses stock price prediction using event embeddings and adversarial training in a Transformer model.
+
+3. [Informer: Transformer for Time-Series Forecasting](https://arxiv.org/abs/2012.07436): Presents an efficient Transformer framework suited for long-sequence time-series forecasting, applicable to financial markets.
+
 
 
 ---
