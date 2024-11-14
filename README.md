@@ -47,9 +47,10 @@ For detailed documentation, please visit our [docs](/documentation) directory:
 
 - [Architecture Overview](documentation/architecture.md)
 - [Understanding Swin Transformer](documentation/understanding_swin_transformer.md)
+- [**Related Resource**](documentation/related_file.md): Additional documentation or configurations related to the project.
+- [**advanced_applications**](documentation/application.md): advanced applications of Swin Transformer across various fields.
 - [**Demo Tutorial**](https://colab.research.google.com/drive/1DqpJVw0Fe2IlTx0gvcrLE_m6SjssqT4Q?usp=sharing) : demo tutorial for swin transformer implementation
 - [**Presentation**](https://northeastern-my.sharepoint.com/:p:/r/personal/lo_cal_northeastern_edu/Documents/Microsoft%20Teams%20Chat%20Files/Northeastern_PresentationTemplate_Widescreen%202.pptx?d=w122ab0e76501455785d9ed5775ec668d&csf=1&web=1&e=6kggBm)
-- [**Related File**](documentation/related_file.md): Additional documentation or configurations related to the project.
 
 
 
